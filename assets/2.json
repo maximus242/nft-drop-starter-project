@@ -1,0 +1,19 @@
+{
+  "name": "Random 3",
+  "symbol": "RAND",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5umEahDsbNHQWgw1MPEM8MERxni8wecndc7Er4gXbBGH",
+        "share": 100
+      }
+    ]
+  }
+}
